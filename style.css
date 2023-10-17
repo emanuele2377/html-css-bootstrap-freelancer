@@ -1,0 +1,94 @@
+* {
+	box-sizing: border-box;
+	padding: 0;
+	margin: 0;
+}
+
+header {
+    background-color: rgb(20, 65, 65);
+    color: white;
+}
+
+.header {
+    display: flex;
+    justify-content:end;
+}
+
+#jumbo {
+    background-color: aqua;
+    color: white;
+}
+
+.avatar {
+    width: 20%; 
+}
+
+.linea {
+    background-color: white;
+    border: solid 2px;
+    width: 9%;
+    margin-left: 39%;
+    margin-bottom: -1%;
+    display: flex;
+}
+
+.star {
+    font-size: large;
+    padding-left: 1%;
+    padding-right: 1%;
+}
+
+.secondaLinea {
+    background-color: white;
+    border: solid 2px;
+    width: 9%;
+    margin-left: 52%;
+    margin-top: -1%;
+    display: flex;
+}
+
+.portfolio {
+    display: flex;
+}
+
+.terzaLinea{
+    background-color: black;
+    border: solid 2px;
+    width: 11%;
+    height: 0;
+    margin-left: 36%;
+    margin-top: 1%;  
+}
+
+.star2{
+    font-size: larger;
+    padding-left: 1%;
+    padding-right: 1%;
+    color: black;
+}
+
+.quartaLinea{
+
+    background-color: black;
+    border: solid 2px;
+    width: 11%;
+    height: 0;
+    margin-top: 1%;
+}
+
+.img {
+    width: 40%;
+    border-radius: 5%;
+
+}
+
+.star3 {
+  font-size: larger;
+  padding-left: 1%;
+  padding-right: 1%;
+}
+
+footer {
+    background-color: aqua;
+    color: white;
+}
