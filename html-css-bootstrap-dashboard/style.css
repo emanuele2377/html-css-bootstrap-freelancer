@@ -1,0 +1,46 @@
+* {
+	box-sizing: border-box;
+	padding: 0;
+	margin: 0;
+}
+
+.brend {
+    padding: 1%;
+}
+
+.primaCol {
+    background-image: url(./img/sidebar-bg.png);
+    background-color: blue;
+    min-height: 300px;
+    display: flex;
+    flex-direction: column;
+    padding: 2%;
+    color: white;
+}
+
+.sett {
+   margin-top: 211%;
+}
+
+.secondaCol {
+    height: 130px;
+    background-color: crimson;
+    color: white;
+}
+
+.size {
+    font-size: 35px;
+}
+
+.studenti {
+    padding-left: 20%;
+}
+
+.badge {
+    font-size: 9px;
+}
+
+.sizeDue {
+    font-size: 30px;
+    padding-left: 5%;
+}
